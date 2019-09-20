@@ -13,16 +13,15 @@
 
 <header>
 	<h1>Planets of Outer Space</h1>
-	<nav>
-		<ul>
-			<li><a href="{{site.baseurl}}/index.html">Home</a></li>
-			<li><a href="{{site.baseurl}}/news.html">News</a></li>
-		</ul>
-	</nav>
+	{% include nav.html %}
 </header>
 
 {{content}}
 
 
+<footer>
+	{% include nav.html %}
+	<p>&copy; 2013 Planets of the Universe</p>
+</footer>
 </body>
 </html>
