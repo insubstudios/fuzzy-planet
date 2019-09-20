@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: news-article
 title: This Thing
 meta: Can you believe this t'ing right here, mon?
 source: http://en.wikipedia.org/wiki/Gliese_581_g
