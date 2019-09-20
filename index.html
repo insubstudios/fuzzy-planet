@@ -6,4 +6,17 @@ layout: default
 	<h1>The Planets of Outer Space!</h1>
 	
 	<p>There's lots of planets in outer space.</p>
+	
+	
+	<h2>Recently Discovered</h2>
+	
+	<ul>
+		{% for news in site.categories.recently-discovered %}
+		<li>
+			<a href="{{}}">{{news.title}}</a>
+			<p>{{news.meta}}</p>
+		</li>
+		{% endfor %}
+	</ul>
+	
 </main>
