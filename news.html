@@ -7,3 +7,12 @@ layout: default
 	
 	<p>There's lots of planets in outer space.</p>
 </main>
+
+<ul>
+	{% for news in site.posts %}
+	<li>
+		<a href="{{}}">{{news.title}}</a>
+		<p>{{news.meta}}</p>
+	</li>
+	{% endfor %}
+</ul>
