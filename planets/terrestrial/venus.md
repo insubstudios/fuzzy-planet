@@ -1,7 +1,7 @@
 ---
 layout: planet
 title: Venus
-meta: 
+meta: Hot and toxic. Best bet for cloud city.
 type: terrestrial
 discoverer: 
 discovered: 1801-01-01

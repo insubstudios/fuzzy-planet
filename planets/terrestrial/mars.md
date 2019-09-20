@@ -1,7 +1,7 @@
 ---
 layout: planet
 title: Mars
-meta: 
+meta: The red one. It's smaller than you think.
 type: terrestrial
 discoverer: 
 discovered: 1801-01-01

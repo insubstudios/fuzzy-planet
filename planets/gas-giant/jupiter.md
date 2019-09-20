@@ -1,7 +1,7 @@
 ---
 layout: planet
 title: Jupiter
-meta: 
+meta: The beauty of the storm.
 type: gas-giant
 discoverer: 
 discovered: 1801-01-01

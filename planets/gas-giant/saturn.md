@@ -1,7 +1,7 @@
 ---
 layout: planet
 title: Saturn
-meta: 
+meta: Ring-a-ding-ding, yo!
 type: gas-giant
 discoverer: 
 discovered: 1801-01-01

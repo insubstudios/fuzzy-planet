@@ -1,7 +1,7 @@
 ---
 layout: planet
 title: Neptune
-meta: 
+meta: Big Blue. No, not IBM. The Big Blue in the sky.
 type: gas-giant
 discoverer: 
 discovered: 1801-01-01

@@ -24,3 +24,8 @@ html {
 .nav-top {
 	font-size: 1.25rem;
 }
+
+img.planet {
+	max-width: 300px;
+	max-height: 250px;
+}
