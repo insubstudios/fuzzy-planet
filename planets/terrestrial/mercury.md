@@ -3,11 +3,11 @@ layout: planet
 title: Mercury
 meta: A real fast motherfucker.
 type: terrestrial
-discoverer: 
-discovered: 1801-01-01
-orbit: 4.6 years
-radius: 487 km
-tilt: 3*
+discoverer: Timocharis
+discovered: 265 BCE
+orbit: 88 days
+radius: 2439 km
+tilt: 2°
 image: mercury.jpg
 source: http://en.wikipedia.org/wiki/Mercury_(planet)
 

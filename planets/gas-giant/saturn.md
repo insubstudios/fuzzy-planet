@@ -3,13 +3,13 @@ layout: planet
 title: Saturn
 meta: Ring-a-ding-ding, yo!
 type: gas-giant
-discoverer: 
-discovered: 1801-01-01
-orbit: 4.6 years
-radius: 487 km
-tilt: 3*
+discoverer: Galileo Galilie
+discovered: 1610
+orbit: 29.5 years
+radius: 58232 km
+tilt: 27°
 image: saturn.jpg
-source: http://en.wikipedia.org/wiki/
+source: http://en.wikipedia.org/wiki/Saturn
 
 ---
 
