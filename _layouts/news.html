@@ -5,11 +5,11 @@ layout: default
 <strong>News</strong>
 
 <nav>
-
-</nav>
-	<ul>
-		<li><a href="{{site.baseurl}}/news.html">Planetary News</a></li>
-		<li><a href="{{site.baseurl}}/recently-discovered.html">Recently Discovered</a></li>
+	<ul class="nav">
+		<li><a href="{{site.baseurl}}/news.html"
+			 class="{% if page.category == 'news' or page.path contains 'news' %}current{% endif %}">Planetary News</a></li>
+		<li><a href="{{site.baseurl}}/recently-discovered.html"
+			 class="{% if page.category == 'recently-discovered' or page.path contains 'recently-discovered' %}current{% endif %}">Recently Discovered</a></li>
 	</ul>
 </nav>
 
