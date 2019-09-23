@@ -6,7 +6,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	
 	<!-- page info -->
-	<title>The Planets of Outer Space!</title>
+	<title>{% if page.title %}{{page.title}} &middot; {% endif %}The Planets of Outer Space!{% if page.titleAfter %} &middot; {{page.titleAfter}}{% endif %}</title>
 	
 	<!-- styles -->
 	<link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
